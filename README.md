@@ -1,6 +1,7 @@
 # Parkinson's Detection Project 
 
-![Project Logo](link-to-your-image.png)
+![image](https://github.com/Sameeruddin8/Parkinsons-Detection/assets/102674044/e8b14ebc-82ff-4c12-9771-154dbbd2b821)
+
 
 ## Introduction
 
