@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prediction Result</title>
+  <link rel="stylesheet" href="../static/styles1.css">
+</head>
+<body>
+  <header>
+    <h1>Prediction Result</h1>
+  </header>
+  
+  <div class="container">
+    <div class="prediction-container">
+      <h2>Prediction:</h2>
+      <p>{{ prediction }}</p>
+    </div>
+
+    <h2>Input Data:</h2>
+    <table>
+      <tr>
+        <th>Field</th>
+        <th>Value</th>
+      </tr>
+      {% for field, value in data.items() %}
+      <tr>
+        <td>{{ field }}</td>
+        <td>{{ value }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+</body>
+</html>
