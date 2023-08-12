@@ -38,6 +38,3 @@ This project focuses on utilizing machine learning techniques, specifically the 
 The Parkinson's Detection Project demonstrates the application of machine learning techniques, particularly the Support Vector Machine algorithm, in diagnosing Parkinson's disease from voice measurements. By extracting and analyzing relevant features from voice recordings, we were able to create a model that shows promising results in identifying individuals with the disease. This project showcases the potential of machine learning in assisting medical diagnosis and highlights the significance of accurate and early disease detection.
 
 For a detailed code implementation, dataset references, and comprehensive results, please refer to the project files.
-
----
-*Note: Replace "link-to-your-image.png" and "link-to-your-video.png" with the actual links to your project logo, demo video, and relevant images.*
