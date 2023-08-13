@@ -29,9 +29,9 @@ This project focuses on utilizing machine learning techniques, specifically the 
 
 6. **Prediction:** Once the model is trained and evaluated, you can use it to predict whether an individual is likely to have Parkinson's disease based on their voice measurements.
 
-## Results
+## Result
 
-![Project Demo Video](link-to-your-video.png)
+![Alt text](Parkinsons.gif)
 
 ## Conclusion
 
