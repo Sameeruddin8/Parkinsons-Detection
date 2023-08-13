@@ -1,6 +1,6 @@
 # Parkinson's Detection Project 
 
-![image](https://github.com/Sameeruddin8/Parkinsons-Detection/assets/102674044/e8b14ebc-82ff-4c12-9771-154dbbd2b821)
+![image](https://github.com/Sameeruddin8/Parkinsons-Detection/assets/102674044/8e68c1e3-ce7a-44b9-83af-b5fa2942a7b6)
 
 
 ## Introduction
